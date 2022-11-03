@@ -7,7 +7,7 @@
 
 - 🔭 I'm training towards a Frontend Developer **HTML CSS JS**
 
-- 🌱 In free time learning **GameDev using Unity engine**
+- 🌱 In free time learning **Django**
 
 - 📫 Contact me **162430@student.uwm.edu.pl**
 
