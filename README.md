@@ -9,9 +9,9 @@
 
 - 🥇 My first "big" project created as part of learning React [E-commerce application](https://github.com/KrystianKierklo/ecommerce)
 
-- 🌎 All of my projects are available at [https://github.com/KrystianKierklo](https://github.com/KrystianKierklo)
-
 - 🤝 The first group project created within 14 days - an application for servicing sports fields in Kortowo **https://github.com/KrystianKierklo/TOPteamTOP_8.00**
+
+- 🌎 All of my projects are available at [https://github.com/KrystianKierklo](https://github.com/KrystianKierklo)
 
 - 📫 How to reach me? **krystian.kierklo3@gmail.com or 162430@student.uwm.edu.pl**
 
