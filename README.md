@@ -11,7 +11,7 @@
 
 - 🤝 The first group project created within 14 days - an application for servicing sports fields in Kortowo **https://github.com/KrystianKierklo/TOPteamTOP_8.00**
 
-- 🌎 All of my projects are available at [[https://github.com/KrystianKierklo](https://github.com/KrystianKierklo)](https://github.com/KrystianKierklo?tab=repositories)
+- 🌎 All of my projects are available at  [https://github.com/KrystianKierklo](https://github.com/KrystianKierklo?tab=repositories)
 
 - 📫 How to reach me? **krystian.kierklo3@gmail.com or 162430@student.uwm.edu.pl**
 
