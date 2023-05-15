@@ -13,7 +13,7 @@
 
 - 🖼 As part of the Introduction to computer graphics course, I expanded my knowledge by creating a library for working with images in python [WDGM](https://github.com/KrystianKierklo/WDGM)
 
-- 🌎 My other projects are available at  [https://github.com/KrystianKierklo](https://github.com/KrystianKierklo?tab=repositories)
+- 🌎 My other projects are available at  [Repositories](https://github.com/KrystianKierklo?tab=repositories)
 
 - 📫 How to reach me? **krystian.kierklo3@gmail.com or 162430@student.uwm.edu.pl**
 
