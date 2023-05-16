@@ -3,7 +3,7 @@
 
 <h3 align="center">Computer science student at the University of Warmia and Mazury</h3>
 
-- 🔭 Currently, I focus on constant learning about React and Django, working on a project for an optional subject run by the EMPLOCITY company, which is [ImgurClone by PySquad](https://github.com/Arrturo/PySquad)
+- 🔭 I am currently focusing on learning React and Django while working on an optional subject project run by EMPLOCITY, which is [ImgurClone by PySquad](https://github.com/Arrturo/PySquad), which you can visit at [https://imgger.smallhost.pl/](https://imgger.smallhost.pl/)
 
 - 🥇 My first project created as part of learning Django [Fishing equipment market](https://github.com/KrystianKierklo/Gielda-Sprzetu-Wedkarskiego)
 
