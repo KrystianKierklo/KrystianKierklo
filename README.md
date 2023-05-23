@@ -12,6 +12,7 @@
 - 🤝 The first group project created within 14 days - an application for servicing sports fields in Kortowo [TOPteamTOP](https://github.com/KrystianKierklo/TOPteamTOP_8.00)
 
 - 🖼 As part of the Introduction to computer graphics course, I expanded my knowledge by creating a library for working with images in python [WDGM](https://github.com/KrystianKierklo/WDGM)
+- 🧠 Repository of knowledge engineering methods - code implementation using Python [Metody inżynieri wiedzy](https://github.com/KrystianKierklo/Metody_In-ynierii_wiedzy)
 
 - 🌎 My other projects are available at  [Repositories](https://github.com/KrystianKierklo?tab=repositories)
 
